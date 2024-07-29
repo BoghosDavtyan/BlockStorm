@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://1dtm37hecsfc"
-path="res://.godot/imported/tileMapGround.png-179bd949d6f5cf4b39d0f9e6eb5f521c.ctex"
+uid="uid://bkmaowvr0op4l"
+path="res://.godot/imported/duck.png-c891d5423c719ece7f7a74215ada0352.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/tileMapGround.png"
-dest_files=["res://.godot/imported/tileMapGround.png-179bd949d6f5cf4b39d0f9e6eb5f521c.ctex"]
+source_file="res://assets/sprites/duck.png"
+dest_files=["res://.godot/imported/duck.png-c891d5423c719ece7f7a74215ada0352.ctex"]
 
 [params]
 
