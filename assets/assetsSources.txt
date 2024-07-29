@@ -1,5 +1,3 @@
-Blocks Sprite: https://www.pinterest.com/pin/2251868554470823/
-
 Character Spritesheet Duck: https://opengameart.org/content/character-spritesheet-duck
 
 Ground Tile Map: https://opengameart.org/content/tile-map-pack
